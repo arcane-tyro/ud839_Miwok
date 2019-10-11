@@ -94,5 +94,5 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(phrasesIntent);
             }
         });
-    }
+    }// Oh bhai! Ya App h 4-4 Activity! 
 }
